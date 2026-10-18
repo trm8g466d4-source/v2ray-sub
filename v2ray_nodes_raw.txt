@@ -1,2 +1,2 @@
-vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJwcyI6Ik1C5Y2a5a6iX+S4reWbvV8xIiwiYWxwbiI6IiIsInNjeSI6ImF1dG8iLCJmcCI6IiIsInR5cGUiOiIiLCJzbmkiOiIiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDAyIiwidiI6IjIiLCJob3N0IjoiIiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJhaWQiOiIwIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTWWc1SlZ2ZzNEcUhjM0xWNUVwcU1QdmE1cm1rVThaOA==@155.138.220.185:8388#MB
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=/f2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=1&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#MB博客_荷兰_1
+trojan://-VbTw-xqE7XYmEsoZTE7ShJoYLCjdBMQ@ger8.fytpn.com:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=ger1.fytpn.com#MB博客_保加利亚_1
