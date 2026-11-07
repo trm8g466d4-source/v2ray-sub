@@ -1,1 +1,1 @@
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&sni=connect-se.mimowhat.online&allowInsecure=1#MB博客_瑞典_1
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&allowInsecure=1#MB博客_阿联酋_1
